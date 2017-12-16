@@ -63,9 +63,9 @@ void setup()
   matrix.begin(0x70);
 
 
-  buttons[0] = new Button(PIN_BUTTON_1);
-  buttons[1] = new Button(PIN_BUTTON_2);
-  buttons[2] = new Button(PIN_BUTTON_3);
+ // buttons[0] = new Button(PIN_BUTTON_1);
+  //buttons[1] = new Button(PIN_BUTTON_2);
+  //buttons[2] = new Button(PIN_BUTTON_3);
 
 }
 
